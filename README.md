@@ -1,4 +1,5 @@
-# ArtProject1
+# Art Project 1 - Ronak Trivedi
+https://ronak2.github.io/ArtProject1/
 - Click the screen to spawn objects
 - Use backspace/delete to remove an object from the screen
 - Click enter to turn make all objects transparent
