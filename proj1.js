@@ -73,7 +73,7 @@ function Particle(x, y) {
     var v = createVector(this.x, this.y);
     this.history.push(v);
     if (this.history.length > 80) {
-      this.history.splice(100, 0);
+      this.history.splice(0, 2);
     }
   };
 
