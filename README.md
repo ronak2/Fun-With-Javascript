@@ -1,4 +1,4 @@
-# Art Project 1 - Ronak Trivedi
+# Creator: Ronak Trivedi
 https://ronak2.github.io/ArtProject1/
 - Click the screen to spawn objects
 - Use backspace/delete to remove an object from the screen
